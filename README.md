@@ -1,3 +1,4 @@
+
 # Embedder
 
 A lightweight C utility for converting binary data into C or Assembly array representations. Embedder reads binary data from standard input and outputs it as hex-encoded arrays, making it easy to embed binary files directly into your source code.
@@ -53,6 +54,8 @@ Read binary data from stdin and output it as a hex-encoded array named `<identif
 
 - `-h, --help`: Display usage information
 - `-a`: Output in Assembly format (default: C format)
+
+https://github.com/user-attachments/assets/54a62294-395d-480d-8520-dcb361aff612
 
 ### Examples
 
